@@ -3,6 +3,15 @@
   
     
     <entry>
+      <title>测试Markdown blog</title>
+      <link href="/2018/05/30/%E6%B5%8B%E8%AF%95Markdown-blog/"/>
+      <url>/2018/05/30/%E6%B5%8B%E8%AF%95Markdown-blog/</url>
+      <content type="html"><![CDATA[<h1 id="测试Markdown-Blog语法"><a href="#测试Markdown-Blog语法" class="headerlink" title="测试Markdown Blog语法"></a>测试Markdown Blog语法</h1><hr><h2 id="第一段"><a href="#第一段" class="headerlink" title="第一段"></a>第一段</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> sys</span><br><span class="line">print()</span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+    </entry>
+    
+    <entry>
       <title>test</title>
       <link href="/2018/05/30/test/"/>
       <url>/2018/05/30/test/</url>

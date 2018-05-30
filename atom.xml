@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-05-30T11:33:36.640Z</updated>
+  <updated>2018-05-30T11:55:19.408Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,11 +17,33 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>测试Markdown blog</title>
+    <link href="http://yoursite.com/2018/05/30/%E6%B5%8B%E8%AF%95Markdown-blog/"/>
+    <id>http://yoursite.com/2018/05/30/测试Markdown-blog/</id>
+    <published>2018-05-30T11:53:03.000Z</published>
+    <updated>2018-05-30T11:55:19.408Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="测试Markdown-Blog语法"><a href="#测试Markdown-Blog语法" class="headerlink" title="测试Markdown Blog语法"></a>测试Markdown Blog语法</h1><hr><h2 id="第一段"><a href="#第一段" class="headerlink" title="第一段"></a>第一段</h2><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">import</span> sys</span><br><span class="line">print()</span><br></pre></td></tr></table></figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;测试Markdown-Blog语法&quot;&gt;&lt;a href=&quot;#测试Markdown-Blog语法&quot; class=&quot;headerlink&quot; title=&quot;测试Markdown Blog语法&quot;&gt;&lt;/a&gt;测试Markdown Blog语法&lt;/h1&gt;&lt;hr&gt;
+&lt;h2 id=&quot;
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>test</title>
     <link href="http://yoursite.com/2018/05/30/test/"/>
     <id>http://yoursite.com/2018/05/30/test/</id>
-    <published>2018-05-30T11:33:36.000Z</published>
-    <updated>2018-05-30T11:33:36.640Z</updated>
+    <published>2018-05-30T11:33:00.000Z</published>
+    <updated>2018-05-30T11:52:33.434Z</updated>
     
     <summary type="html">
     
